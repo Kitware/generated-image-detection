@@ -1,3 +1,3 @@
-# generated-image-detection
+# Kitware GAN-generated Image Detector
 
 Coming Soon...
